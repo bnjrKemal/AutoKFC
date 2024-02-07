@@ -1,0 +1,17 @@
+autoHarvest:
+  - WHEAT
+  - CARROT
+autoCollect:
+  - WHEAT
+  - CARROT
+  - STONE
+  - ROTTEN_MEAL
+autoKill:
+  - ZOMBIE
+  - SHEEP
+  - PIG
+
+
+upgrade: 1
+stored:
+  STONE: 2

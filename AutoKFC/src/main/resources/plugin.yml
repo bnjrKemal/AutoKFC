@@ -1,0 +1,5 @@
+name: AutoKFC
+version: '${version}'
+main: com.bnjrKemal.AutoKFC
+commands:
+  autoKFC:
